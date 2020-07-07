@@ -1,0 +1,14 @@
+{
+  "name": "JWT",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon /src"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "chalk": "^4.0.0",
+    "jsonwebtoken": "^8.5.1"
+  }
+}
